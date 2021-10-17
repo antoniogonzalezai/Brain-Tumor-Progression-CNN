@@ -5,7 +5,7 @@ The original dataset: https://wiki.cancerimagingarchive.net/display/Public/Brain
 
 If you find this code useful in your research, please consider citing the blog:
 
-@misc{sagarconvulutional, 
+@misc{antonoiogonzaconvulutional, 
 Author = {Antonio Gonzalez}, 
 Title = {Convolutional Neural Network for Brain Tumor Porgression Predictions},
 Year = {2021}, 
